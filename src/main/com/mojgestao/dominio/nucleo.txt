@@ -1,0 +1,3 @@
+aqui fica as classes de dominio e regras de negoico
+
+obs: aqui pode se dividir em mais pastas como as compras ou descontos e etc

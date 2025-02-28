@@ -1,0 +1,1 @@
+pastas como essa identificam ou contem funcionamento ou semelheantes a requisitos nao funcionais (estudem sobre arquitetura exagonal...)

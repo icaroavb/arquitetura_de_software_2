@@ -1,0 +1,1 @@
+aqui fica o local que será ligado qualquer classe objeto ou que envolvar ligação com o banco de dados
